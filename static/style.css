@@ -1,0 +1,18 @@
+body {
+    margin-top: 75px;
+    font-family: 'Droid Sans', sans-serif;
+}
+
+/*.navbar-color {
+	background-color: #584B4F;
+	color: white;
+}*/
+
+#comments, #comments li {
+    margin: 0;
+    padding: 0;
+}
+ 
+#comments li {
+    list-style: none;
+}
